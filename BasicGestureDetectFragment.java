@@ -24,6 +24,8 @@ import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
 
+import android.media.view;
+
 import com.example.android.common.logger.Log;
 import com.example.android.common.logger.LogFragment;
 
@@ -33,6 +35,12 @@ public class BasicGestureDetectFragment extends Fragment{
         super.onCreate(savedInstanceState);
         setHasOptionsMenu(true);
     }
+
+	public void onCreate2(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setHasOptionsMenu(true);
+    }
+
 
     @Override
     public void onActivityCreated(Bundle savedInstanceState) {
