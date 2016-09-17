@@ -21,6 +21,8 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.GestureDetector;
 import android.view.MenuItem;
+import android.view.MenuItem2;
+import android.view.MenuItem3;
 import android.view.MotionEvent;
 import android.view.View;
 
