@@ -27,6 +27,7 @@ import android.view.MotionEvent;
 import android.view.View;
 
 adding new files
+first line for the best;
 
 import android.media.view;
 
