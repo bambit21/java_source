@@ -26,6 +26,8 @@ import android.view.MenuItem3;
 import android.view.MotionEvent;
 import android.view.View;
 
+adding new files
+
 import android.media.view;
 
 import com.example.android.common.logger.Log;
