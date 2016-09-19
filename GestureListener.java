@@ -18,7 +18,6 @@ package com.example.android.basicgesturedetect;
 
 import android.view.GestureDetector;
 import android.view.GestureDetector;
-import android.view.GestureDetector;
 import tools.view.MotionEvent;
 
 import com.example.android.common.logger.Log;
